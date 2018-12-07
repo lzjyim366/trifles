@@ -8,4 +8,5 @@
 * [Courses in BUPT](courses-in-bupt.md)
   * [Sem 3](courses-in-bupt/sem-3.md)
     * [CPL](courses-in-bupt/sem-3/cpl.md)
+    * [Math I](courses-in-bupt/sem-3/math-i.md)
 
