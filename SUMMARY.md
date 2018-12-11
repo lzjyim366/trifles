@@ -10,5 +10,6 @@
   * [Sem 3](courses-in-bupt/sem-3.md)
     * [CPL](courses-in-bupt/sem-3/cpl.md)
     * [Math I](courses-in-bupt/sem-3/math-i.md)
+    * [Data Structure](courses-in-bupt/sem-3/data-structure.md)
 * [Dreams](dreams.md)
 
