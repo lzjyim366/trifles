@@ -18,4 +18,6 @@
   * [01](dreams/01.md)
 * [Reviews](shu-ping.md)
   * [CS](shu-ping/cs.md)
+  * [Games](shu-ping/games.md)
+    * [废土2](shu-ping/games/fei-tu-2.md)
 
