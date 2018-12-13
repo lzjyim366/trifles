@@ -16,4 +16,6 @@
     * [Java](courses-in-bupt/sem-3/java.md)
 * [Dreams](dreams.md)
   * [01](dreams/01.md)
+* [Reviews](shu-ping.md)
+  * [CS](shu-ping/cs.md)
 
