@@ -14,10 +14,13 @@
     * [Math I](courses-in-bupt/sem-3/math-i.md)
     * [Data Structure](courses-in-bupt/sem-3/data-structure.md)
     * [Java](courses-in-bupt/sem-3/java.md)
+    * [期末补天Orz](courses-in-bupt/sem-3/qi-mobu-tian-orz.md)
 * [Dreams](dreams.md)
   * [01](dreams/01.md)
 * [Reviews](shu-ping.md)
   * [CS](shu-ping/cs.md)
   * [Games](shu-ping/games.md)
     * [废土2](shu-ping/games/fei-tu-2.md)
+  * [Pieces](shu-ping/pieces.md)
+    * [向こう侧の月-Megalopolis of Moon](shu-ping/pieces/xiang-3053-3046-ce-306e-6708-megalopolis-of-moon.md)
 
