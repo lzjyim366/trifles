@@ -12,6 +12,7 @@
 * [2019](2019.md)
   * [Jan](2019/jan.md)
     * [Week1](2019/jan/week1.md)
+    * [Week2](2019/jan/week2.md)
 * [Courses in BUPT](courses-in-bupt.md)
   * [Sem 3](courses-in-bupt/sem-3.md)
     * [CPL](courses-in-bupt/sem-3/cpl.md)
