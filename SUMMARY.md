@@ -25,7 +25,7 @@
     * [Java](courses-in-bupt/sem-3/java.md)
     * [期末补天Orz](courses-in-bupt/sem-3/qi-mobu-tian-orz.md)
   * [Sem 4](courses-in-bupt/sem-4.md)
-    * database
+    * [database](courses-in-bupt/sem-4/database.md)
 * [Dreams](dreams.md)
   * [01](dreams/01.md)
 * [Reviews](shu-ping.md)
