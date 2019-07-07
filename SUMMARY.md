@@ -17,6 +17,8 @@
     * [02/22](2019/feb/0222.md)
   * [Mar](2019/mar.md)
     * [03/04](2019/mar/04.md)
+  * [Jul](2019/jul.md)
+    * 07/08
 * [Courses in BUPT](courses-in-bupt.md)
   * [Sem 3](courses-in-bupt/sem-3.md)
     * [CPL](courses-in-bupt/sem-3/cpl.md)
