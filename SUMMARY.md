@@ -18,7 +18,7 @@
   * [Mar](2019/mar.md)
     * [03/04](2019/mar/04.md)
   * [Jul](2019/jul.md)
-    * 07/08
+    * [07/08](2019/jul/0708.md)
 * [Courses in BUPT](courses-in-bupt.md)
   * [Sem 3](courses-in-bupt/sem-3.md)
     * [CPL](courses-in-bupt/sem-3/cpl.md)
@@ -30,6 +30,7 @@
     * [database](courses-in-bupt/sem-4/database.md)
 * [Dreams](dreams.md)
   * [01](dreams/01.md)
+  * [02](dreams/02.md)
 * [Reviews](shu-ping.md)
   * [CS](shu-ping/cs.md)
   * [Games](shu-ping/games.md)
