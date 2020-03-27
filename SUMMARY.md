@@ -19,6 +19,8 @@
     * [03/04](2019/mar/04.md)
   * [Jul](2019/jul.md)
     * [07/08](2019/jul/0708.md)
+* [2020](2020.md)
+  * [3/28](2020/mar.md)
 * [Courses in BUPT](courses-in-bupt.md)
   * [Sem 3](courses-in-bupt/sem-3.md)
     * [CPL](courses-in-bupt/sem-3/cpl.md)
